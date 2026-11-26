@@ -1,0 +1,1 @@
+# fg275-jenerator-projesi
