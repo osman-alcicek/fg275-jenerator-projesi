@@ -1,12 +1,5 @@
 # Full Jeneratör FG 275 Projesi
 
-## Öğrenci bilgileri
-
-| Bilgi | Değer |
-|---|---|
-| Ad Soyad | Osman ALÇİÇEK |
-| Öğrenci Numarası | 265541018 |
-
 ## Projenin amacı
 
 Bu projenin amacı, **D 300 kontrol panosuna sahip Full Jeneratör FG 275 kabinli dizel jeneratörün** makine emniyeti ve siber güvenlik açısından incelenmesidir. Şebeke kesintisinde jeneratörün otomatik olarak devreye girdiği bir sanayi tesisi senaryosu üzerinden çalışanlara ve ekipmana yönelik riskler değerlendirilmiş, bu riskleri azaltmak için önlemler önerilmiştir.
